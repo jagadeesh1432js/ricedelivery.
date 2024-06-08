@@ -1,0 +1,13 @@
+rice-delivery-website/
+├── backend/
+│   ├── app.js
+│   ├── routes/
+│   │   └── orders.js
+│   ├── models/
+│   │   └── order.js
+│   └── database.js
+├── frontend/
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
+└── package.json
